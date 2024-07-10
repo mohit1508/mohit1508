@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohit Khandelwal</h1>
-<h3 align="center">Passionate software developer with extensive experience in building scalable, and user-friendly web applications. Proven track record of optimizing applications to enhance user engagement and performance, with a keen focus on innovative problem-solving and collaborative development.</h3>
+<h3 align="center">Passionate software developer with extensive experience in building scalable, and user-friendly web applications. Specialize in optimizing applications to enhance user engagement and performance, with a keen focus on innovative problem-solving and collaborative development.</h3>
 
-- 👨‍💻 My portfolio [https://portfolio-mohit-cyan.vercel.app/](https://portfolio-mohit-cyan.vercel.app/)
+- 👨‍💻 My portfolio: [Link](https://portfolio-mohit-cyan.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Node, React, Next, Framer motion**
 
 - 📫 Reach me @ **mohitkhandelwal1997@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link](https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link)
+- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
