@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohit Khandelwal</h1>
 <h3 align="center">Passionate software developer with extensive experience in building scalable, and user-friendly web applications. Specialize in optimizing applications to enhance user engagement and performance, with a keen focus on innovative problem-solving and collaborative development.</h3>
 
-- 👨‍💻 My portfolio: [Link](https://portfolio-mohit-cyan.vercel.app/)
+- 👨‍💻 My portfolio: [Link](https://portfolio-mohit-cyan.vercel.app/){:target="_blank"}
 
 - 💬 Ask me about **JavaScript, Node, React, Next, Framer motion**
 
 - 📫 Reach me @ **mohitkhandelwal1997@yahoo.com**
 
-- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link)
+- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-khandelwal-15aug/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-khandelwal-15aug/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mohitk1508/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohitk1508/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-khandelwal-15aug/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-khandelwal-15aug/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mohitk1508/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohitk1508/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
