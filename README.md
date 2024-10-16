@@ -3,11 +3,11 @@
 
 - 👨‍💻 My portfolio: [Link](https://portfolio-mohit-cyan.vercel.app/)
 
-- 💬 Ask me about **JavaScript, Node, React, Next, Framer motion**
+- 💬 Ask me about **TypeScript, JavaScript, Node, React, Next, Framer motion**
 
 - 📫 Reach me @ **mohitkhandelwal1997@yahoo.com**
 
-- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1JejQO7XprKBDakN1UGbDUD1c0pnyWx-V/view?usp=drive_link)
+- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/14_QxZ7MgsvpjDV35ZICmumktyG_CZ5Js/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
